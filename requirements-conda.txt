@@ -5,14 +5,14 @@ astroid=2.4.2=py38_0
 ca-certificates=2020.7.22=0
 certifi=2020.6.20=py38_0
 colorama=0.4.3=py_0
-isort=5.5.3=py38_0
+isort=5.6.1=py38_0
 lazy-object-proxy=1.4.3=py38he774522_0
 mccabe=0.6.1=py38_1
 openssl=1.1.1h=he774522_0
-pip=20.2.2=py38_0
+pip=20.2.3=py38_0
 pylint=2.6.0=py38_0
 python=3.8.5=h5fd99cc_1
-setuptools=49.6.0=py38_0
+setuptools=50.3.0=py38h9490d1a_1
 six=1.15.0=py_0
 sqlite=3.33.0=h2a8f88b_0
 toml=0.10.1=py_0
